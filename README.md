@@ -10,7 +10,7 @@ Inspired by the [blogpost](https://www.danvega.dev/blog/virtual-threads-spring-b
 
 The benchmark is a rather optimistic PoC version to demonstrate the benefits of virtual threads.
 
-For a more realistic view about the short term challanges to realize those benefits to their full extent (and possibly a roadmap), see the very informative [blogpost](https://medium.com/@phil_3582/java-virtual-threads-some-early-gotchas-to-look-out-for-f65df1bad0db) by Phil Boutros.
+For a more realistic view about the short term challenges to realize those benefits to their full extent (and possibly a roadmap), see the very informative [blogpost](https://medium.com/@phil_3582/java-virtual-threads-some-early-gotchas-to-look-out-for-f65df1bad0db) by Phil Boutros.
 
 Also a bit off-topic, but highly recommended [video](https://www.youtube.com/watch?v=zluKcazgkV4) comparing Kotlin coroutines and Java virtual therads by Roman Elizarov.
 
